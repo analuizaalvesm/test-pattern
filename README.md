@@ -1,6 +1,6 @@
-# Trabalho Prático: Implementando Padrões de Teste (Test Patterns)
+# Trabalho Prático - Implementação de Padrões de Teste
 
-Este repositório contem os elementos necessários para execução do projeto de Test Patterns
+Este repositório contém os elementos necessários para execução do projeto de Test Patterns.
 
 ## Sua Tarefa
 
